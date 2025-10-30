@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\",
+  "WorkspaceRootPath": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio2\u00263.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio2\u00263.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio2\u00263.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio2\u00263.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:Ejercicio1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C267B5A0-60A4-4DDE-9F80-2D46178AD720}|AA1_5_SOLID.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ejercicio5.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio5.cpp",
+              "RelativeDocumentMoniker": "Ejercicio5.cpp",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio5.cpp",
+              "RelativeToolTip": "Ejercicio5.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T09:58:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio5.h",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio5.h",
+              "RelativeDocumentMoniker": "Ejercicio5.h",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio5.h",
+              "RelativeToolTip": "Ejercicio5.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-30T09:52:27.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio4.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio4.cpp",
+              "RelativeDocumentMoniker": "Ejercicio4.cpp",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio4.cpp",
+              "RelativeToolTip": "Ejercicio4.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T09:40:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio4.h",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio4.h",
+              "RelativeDocumentMoniker": "Ejercicio4.h",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio4.h",
+              "RelativeToolTip": "Ejercicio4.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-30T09:30:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio2\u00263.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio2\u00263.cpp",
+              "RelativeDocumentMoniker": "Ejercicio2\u00263.cpp",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio2\u00263.cpp",
+              "RelativeToolTip": "Ejercicio2\u00263.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T09:04:00.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio2\u00263.h",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio2\u00263.h",
+              "RelativeDocumentMoniker": "Ejercicio2\u00263.h",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio2\u00263.h",
+              "RelativeToolTip": "Ejercicio2\u00263.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-30T08:51:52.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Ejercicio1.cpp",
-              "DocumentMoniker": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.cpp",
               "RelativeDocumentMoniker": "Ejercicio1.cpp",
-              "ToolTip": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.cpp",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.cpp",
               "RelativeToolTip": "Ejercicio1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-28T11:20:53.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Ejercicio1.h",
-              "DocumentMoniker": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.h",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.h",
               "RelativeDocumentMoniker": "Ejercicio1.h",
-              "ToolTip": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.h",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\Ejercicio1.h",
               "RelativeToolTip": "Ejercicio1.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAEAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-28T11:20:30.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\naran\\Desktop\\UNI\\IngenieriaSoftware\\AA1_5_SOLID\\main.cpp",
+              "ToolTip": "C:\\Users\\Sergi\\Desktop\\IngenieriaSoftware\\AA1_5_SOLID\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-28T11:07:07.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T11:07:07.952Z"
             }
           ]
         }
