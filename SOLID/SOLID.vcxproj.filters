@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de origen\DIP">
+      <UniqueIdentifier>{90ce98ba-215d-409f-a666-35e144eaf094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ISP">
+      <UniqueIdentifier>{15c3e468-4923-421e-a7d4-3f9d18b93e61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="DIP_Main.cpp">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClCompile>
+    <ClCompile Include="ISP_Main.cpp">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DIP_Configuration.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="DIP_Main.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadXMLConfiguration.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadConfigurationService.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadBinaryConfigurationService.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP_Boss.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="IAttacker.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="IDeffender.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP_Enemy.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP_Main.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP_Minion.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

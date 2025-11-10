@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de origen\DIP">
+      <UniqueIdentifier>{0943d593-bbc7-4af6-ad45-59b8106e7e89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ISP">
+      <UniqueIdentifier>{41724708-a929-4dd9-b673-ce3938468764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\LSP">
+      <UniqueIdentifier>{bf9fac9f-3d2c-42ba-ba6e-fd1d11c3de94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\OCP">
+      <UniqueIdentifier>{02a4b4ab-294b-47e4-bde1-771ebe9fa274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\SRP">
+      <UniqueIdentifier>{8e6cc974-2279-4f25-b629-4f443eab0382}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ejercicio SOLID.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="DIP\DIP_Configuration.cpp">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClCompile>
+    <ClCompile Include="DIP\DIPMain.cpp">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClCompile>
+    <ClCompile Include="DIP\LoadXMLConfigurationService.cpp">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClCompile>
+    <ClCompile Include="ISP\ISP_Boss.cpp">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClCompile>
+    <ClCompile Include="ISP\ISP_Minion.cpp">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClCompile>
+    <ClCompile Include="ISP\ISPMain.cpp">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClCompile>
+    <ClCompile Include="LSP\Boss.cpp">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClCompile>
+    <ClCompile Include="LSP\LSPMain.cpp">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClCompile>
+    <ClCompile Include="LSP\Minion.cpp">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClCompile>
+    <ClCompile Include="SRP\SRP_Configuration.cpp">
+      <Filter>Archivos de origen\SRP</Filter>
+    </ClCompile>
+    <ClCompile Include="SRP\SRPMain.cpp">
+      <Filter>Archivos de origen\SRP</Filter>
+    </ClCompile>
+    <ClCompile Include="OCP\Enemy.cpp">
+      <Filter>Archivos de origen\OCP</Filter>
+    </ClCompile>
+    <ClCompile Include="OCP\OCPMain.cpp">
+      <Filter>Archivos de origen\OCP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DIP\DIPMain.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="DIP\DIP_Configuration.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="DIP\LoadXMLConfigurationService.h">
+      <Filter>Archivos de origen\DIP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP\ISP_Boss.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP\ISP_Enemy.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP\ISP_Minion.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="ISP\ISPMain.h">
+      <Filter>Archivos de origen\ISP</Filter>
+    </ClInclude>
+    <ClInclude Include="LSP\Boss.h">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClInclude>
+    <ClInclude Include="LSP\Enemy.h">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClInclude>
+    <ClInclude Include="LSP\LSPMain.h">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClInclude>
+    <ClInclude Include="LSP\Minion.h">
+      <Filter>Archivos de origen\LSP</Filter>
+    </ClInclude>
+    <ClInclude Include="SRP\SRP_Configuration.h">
+      <Filter>Archivos de origen\SRP</Filter>
+    </ClInclude>
+    <ClInclude Include="SRP\SRPMain.h">
+      <Filter>Archivos de origen\SRP</Filter>
+    </ClInclude>
+    <ClInclude Include="OCP\Enemy.h">
+      <Filter>Archivos de origen\OCP</Filter>
+    </ClInclude>
+    <ClInclude Include="OCP\OCPMain.h">
+      <Filter>Archivos de origen\OCP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
