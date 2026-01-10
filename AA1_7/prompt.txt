@@ -1,0 +1,12 @@
+You are a senior C++ developer.
+
+Analyze the following C++ code and evaluate whether it follows SOLID principles.
+
+Explain:
+- Which SOLID principles are respected
+- Which are violated
+- How the code could be improved
+
+Be concise and clear.
+
+Code:
